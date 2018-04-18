@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="message_success">请求成功</string>
+    <string name="message_request_created">请求已被创建</string>
+    <string name="message_response_no_content">服务器成功处理了请求，但未返回任何内容。</string>
+
+    <string name="message_server_resource_not_modified">表示资源自上次请求以来未被修改。</string>
+
+    <string name="message_bad_request">由于语法错误，无法满足该请求。</string>
+    <string name="message_request_unauthorized">请求需要用户身份验证。</string>
+    <string name="message_forbidden">服务器理解请求，但拒绝履行它。</string>
+    <string name="message_page_not_found">找不到请求的资源。</string>
+    <string name="message_request_conflict">由于与资源的当前状态冲突，无法完成请求。</string>
+    <string name="message_network_unreachable">网络不可达，请检查网络后再试</string>
+
+    <string name="message_internal_server_error">服务器遇到了一个意外情况，导致它无法满足请求。</string>
+    <string name="message_service_unreachable">服务器当前不可用,请稍后再试。</string>
+
+    <string name="message_an_unknown_error">发生未知错误</string>
+
+</resources>
