@@ -18,11 +18,11 @@
 * `XmlPull`: [public domain](https://raw.githubusercontent.com/mosabua/xmlpull/master/LICENSE.txt)
 
 ### License
-Copyright © 2018 by Ericyl  
+Copyright © 2017 by Ericyl  
 Contact: [admin@ericyl.com](mailto:admin@ericyl.com) / [Gmail](mailto:ericyl.studio@gmail.com)
 
 ```
-Copyright 2016 Ericyl
+Copyright 2017 Ericyl
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
