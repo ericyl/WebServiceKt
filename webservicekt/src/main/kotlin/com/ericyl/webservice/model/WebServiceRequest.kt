@@ -1,4 +1,4 @@
-package com.ericyl.webservice
+package com.ericyl.webservice.model
 
 import org.ksoap2.serialization.SoapObject
 

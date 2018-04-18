@@ -1,10 +1,13 @@
-package com.ericyl.webservice
+package com.ericyl.webservice.core
 
+import com.ericyl.webservice.*
 import com.ericyl.webservice.exception.WebServiceException
+import com.ericyl.webservice.model.RequestObject
+import com.ericyl.webservice.model.WebServiceRequest
+import com.ericyl.webservice.model.WebServiceResponse
 
 import org.ksoap2.SoapFault
 import org.ksoap2.serialization.SoapObject
-import org.ksoap2.serialization.SoapPrimitive
 import org.ksoap2.serialization.SoapSerializationEnvelope
 import org.ksoap2.transport.HttpTransportSE
 

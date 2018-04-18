@@ -1,6 +1,10 @@
 package com.ericyl.webservice
 
+import com.ericyl.webservice.core.HttpTransportSender
+import com.ericyl.webservice.core.ResponseListener
 import com.ericyl.webservice.exception.WebServiceException
+import com.ericyl.webservice.model.RequestObject
+import com.ericyl.webservice.model.WebServiceResponse
 
 import io.reactivex.Observable
 import io.reactivex.disposables.Disposable

@@ -1,4 +1,4 @@
-package com.ericyl.webservice
+package com.ericyl.webservice.core
 
 import org.ksoap2.SoapEnvelope
 

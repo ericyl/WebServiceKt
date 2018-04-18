@@ -1,6 +1,7 @@
-package com.ericyl.webservice
+package com.ericyl.webservice.core
 
 import com.ericyl.webservice.exception.WebServiceException
+import com.ericyl.webservice.model.WebServiceResponse
 
 internal interface ResponseListener {
 

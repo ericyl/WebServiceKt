@@ -62,7 +62,6 @@
 
 -keepattributes Exceptions, InnerClasses, Signature, Deprecated, SourceFile, LineNumberTable, Annotation, EnclosingMethod, MethodParameters
 
--keep interface com.ericyl.webservice.listener.** { *; }
+-keep interface com.ericyl.webservice.** { *; }
 -keep public class com.ericyl.webservice.** { *; }
 
--keepclassmembers interface com.ericyl.webservice.OnWebServiceResponseListener { *; }
