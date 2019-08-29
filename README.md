@@ -1,4 +1,7 @@
 # WebService
+[![Download](https://api.bintray.com/packages/ericyl/EricylUtils/WebServiceKt/images/download.svg)](https://bintray.com/ericyl/EricylUtils/WebServiceKt/_latestVersion)
+
+开发环境: IntelliJ IDEA
 
 ### 主要功能:
 对 Java WebService 网络交互框架 `Ksoap2-android` 进行二次封装。
@@ -12,6 +15,8 @@
 已加入混淆相关代码  
 
 ### Open Source Licenses:
+* `Android Open Source Project`: [APL 2.0](https://source.android.com/source/licenses.html#android-open-source-project-license)
+* `Kotlin`: [APL 2.0](https://github.com/JetBrains/kotlin/tree/master/license)
 * `KObjects`: [permissive license](https://github.com/mosabua/kobjects)
 * `KSOAP2-android`: [MIT](https://raw.githubusercontent.com/simpligility/ksoap2-android/master/LICENSE.txt)
 * `KXml2`: [MIT](https://raw.githubusercontent.com/mosabua/kxml2/master/license.txt)
